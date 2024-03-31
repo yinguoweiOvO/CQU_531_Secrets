@@ -55,7 +55,8 @@
   - [如何将Tensorflow模型转Pytorch](#如何将keras模型-tensorflow-转torch)
   - [如何仅让部分IP通过指定VPN](#如何仅让部分ip通过指定vpnwindows--默认vpn-修改路由)
   - [如何在服务器之间或服务器与本地传输数据集](#如何传输数据集)
-  
+- [毕业]()
+  - [毕业论文latex模板](毕业论文latex模板)
 
 ## 工具推荐
 
@@ -911,3 +912,7 @@ docker run --gpus all -it --shm-size 32g -p $CONTAINER_SSH_PORT:22 -v $CODE_DIR:
   ```
   git config --global --add safe.directory /workspace/code
   ```
+
+## 毕业论文latex模板
+### 慎重使用，使用此模板导致任何问题相关人员不负任何责任
+github链接：https://github.com/yinguoweiOvO/CQU_Thesis2024/tree/master （因盲审未结束，暂未公开）
